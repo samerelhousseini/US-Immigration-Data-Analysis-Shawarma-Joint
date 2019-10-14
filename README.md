@@ -175,6 +175,7 @@ pop_sizes_df.head(3)
 
 
 <div>
+
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -540,6 +541,7 @@ airport_codes[airport_codes['municipality'] == 'orlando'].head()
 
 
 <div>
+
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -634,6 +636,7 @@ us_cities.head()
 
 
 <div>
+
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -799,6 +802,7 @@ demog.head()
 
 
 <div>
+
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -936,6 +940,7 @@ biggest_minority.sort_values('Count', ascending=False).head()
 
 
 <div>
+
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -1062,6 +1067,7 @@ for c in cols:
 
 
 <div>
+
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -1308,6 +1314,7 @@ for c in cols:
 
 
 <div>
+
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -1369,6 +1376,7 @@ for c in cols:
 
 
 <div>
+
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -1430,6 +1438,7 @@ for c in cols:
 
 
 <div>
+
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -1491,6 +1500,7 @@ for c in cols:
 
 
 <div>
+
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -1552,6 +1562,7 @@ for c in cols:
 
 
 <div>
+
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -1613,6 +1624,7 @@ for c in cols:
 
 
 <div>
+
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -1895,6 +1907,7 @@ imm_dict_country.head()
 
 
 <div>
+
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -2035,6 +2048,7 @@ imm_dict_port.head()
 
 
 <div>
+
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -2229,6 +2243,7 @@ imm_dict_states.head()
 
 
 <div>
+
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -2348,6 +2363,7 @@ visitors.limit(15).toPandas().head()
 
 
 <div>
+
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -2584,6 +2600,7 @@ visitors[visitors['CitCountry'] == 'Saudi Arabia'].orderBy(F.col('count'), ascen
 
 
 <div>
+
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -2829,6 +2846,7 @@ ac_vis_df.head(5)
 
 
 <div>
+
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -3095,6 +3113,7 @@ us_states_geo_df.head()
 
 
 <div>
+
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -3160,6 +3179,7 @@ state_counts.head(5)
 
 
 <div>
+
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -3228,6 +3248,7 @@ hi_vol_ports.head()
 
 
 <div>
+
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -3336,6 +3357,7 @@ airport_codes[airport_codes['municipality'] == 'new york'].head()
 
 
 <div>
+
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
