@@ -176,7 +176,7 @@ pop_sizes_df.head(3)
 
 <div>
 
-<style scoped>
+<style>
 
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
