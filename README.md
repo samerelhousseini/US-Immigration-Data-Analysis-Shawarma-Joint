@@ -3194,11 +3194,7 @@ The map could be accessed at:
 [https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/dpvk9xkud4kqf1h/keplergl_m41qnas.json](https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/dpvk9xkud4kqf1h/keplergl_m41qnas.json)
 
 #### 4.2 Data Quality Checks
-Explain the data quality checks you'll perform to ensure the pipeline ran as expected. These could include:
- * Integrity constraints on the relational database (e.g., unique key, data type, etc.)
- * Unit tests for the scripts to ensure they are doing the right thing
- * Source/Count checks to ensure completeness
- 
+
 Run Quality Checks
 
 
