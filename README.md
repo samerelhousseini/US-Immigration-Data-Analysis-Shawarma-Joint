@@ -2,7 +2,6 @@
 ### Data Engineering Capstone Project
 
 #### Project Summary
---describe your project at a high level--
 
 The project follows the follow steps:
 * Step 1: Scope the Project and Gather Data
@@ -12,12 +11,6 @@ The project follows the follow steps:
 * Step 5: Complete Project Write Up
 
 ### Step 1: Scope the Project and Gather Data
-
-#### Scope 
-Explain what you plan to do in the project in more detail. What data do you use? What is your end solution look like? What tools did you use? etc>
-
-#### Describe and Gather Data 
-Describe the data sets you're using. Where did it come from? What type of information is included? 
 
 ### Business Case Research - Shawarma Joint
 
@@ -105,11 +98,6 @@ spark.conf.set("spark.sql.shuffle.partitions", 20)
 ```
 
 ### Step 2: Explore and Assess the Data
-#### Explore the Data 
-Identify data quality issues, like missing values, duplicate data, etc.
-
-#### Cleaning Steps
-Document steps necessary to clean the data
 
 ### Reading and Exploring Temperature Data
 
@@ -1726,11 +1714,6 @@ top_cit.join(imm_country_df, top_cit.i94cit == imm_country_df.Code).orderBy('cou
 
 
 ### Step 3: Define the Data Model
-#### 3.1 Conceptual Data Model
-Map out the conceptual data model and explain why you chose that model
-
-#### 3.2 Mapping Out Data Pipelines
-List the steps necessary to pipeline the data into the chosen data model
 
 #### 3.1 Conceptual Data Model
 
@@ -1747,8 +1730,6 @@ The final data output, will be the list of port of entries, with the count of al
 * Start processing immigration DataFrame and join relevant data
 
 ### Step 4: Run Pipelines to Model the Data 
-#### 4.1 Create the data model
-Build the data pipelines to create the data model.
 
 ### Process Immigration Dictionary
 The I94_SAS_Labels_Descriptions.SAS file has been copied into an excel sheet, and relevant field dictionaries will be processed
